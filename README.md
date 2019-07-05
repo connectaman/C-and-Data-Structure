@@ -23,3 +23,10 @@
 * ShellSort
 
 * Merge Sort 
+
+
+### References 
+
+* [GEEKSFORGEEK](https://www.geeksforgeeks.org/sorting-algorithms/)
+
+* [TUTORIALSPOINT](https://www.tutorialspoint.com/data_structures_algorithms/)
