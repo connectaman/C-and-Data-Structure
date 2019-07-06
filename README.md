@@ -22,7 +22,6 @@
 
 * ShellSort
 
-* Merge Sort 
 
 
 ### References 
