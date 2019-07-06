@@ -8,6 +8,8 @@ Bubble sort is a simple sorting algorithm. This sorting algorithm is comparison-
 ### Working
 ![Bubble Sort](http://www.algolist.net/img/sorts/bubble-sort-1.png)
 
+[BubbleSort Video Explanation](https://youtu.be/nmhjrI-aW5o)
+
 ---------------------
 
 ## Worst and Average Case Time Complexity: O(n*n). Worst case occurs when array is reverse sorted.
